@@ -1,7 +1,7 @@
 {
   "name": "filtro-merriam-audio",
   "description": "Return merriam webster audio from a work",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "http://github.com/felquis/filtro-merriam-audio",
   "author": {
     "name": "Felquis Gimenes",
