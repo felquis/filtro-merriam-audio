@@ -32,7 +32,7 @@ filtro({
 ```
 
 The `result` will look like this:
-```json
+```js
 {
   'merriam-audio': {
     audios: [
